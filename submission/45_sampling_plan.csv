@@ -1,9 +1,9 @@
 camera_id,slice_type,frames,risk,rationale
-front,normal,,TODO,TODO
-front,hard,,TODO,TODO
-rear,normal,,TODO,TODO
-rear,hard,,TODO,TODO
-left,normal,,TODO,TODO
-left,hard,,TODO,TODO
-right,normal,,TODO,TODO
-right,hard,,TODO,TODO
+front,normal,20,medium,Giữ mẫu giao thông thường để đo độ phủ cơ bản và làm đối chứng cho hard case
+front,hard,30,high,Ưu tiên vật xa chồng lấp ngược sáng và sát seam góc trước
+rear,normal,20,medium,Giữ mẫu nền và mật độ xe thông thường phía sau
+rear,hard,30,high,Ưu tiên xe áp sát vật bị che ego body và chuyển động ra khỏi trường nhìn
+left,normal,20,medium,Giữ mẫu làn bên trái và cảnh đô thị thông thường
+left,hard,30,high,Ưu tiên vật méo ở rìa người đi xe hai bánh và seam trước/sau bên trái
+right,normal,20,medium,Giữ mẫu làn bên phải và cảnh thông thường làm đối chứng
+right,hard,30,high,Ưu tiên curb người đi bộ xe máy và seam trước/sau bên phải

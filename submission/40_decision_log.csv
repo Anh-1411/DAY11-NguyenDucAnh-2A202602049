@@ -1,1 +1,6 @@
 id,date,question,decision,rationale,status
+DL-001,2026-09-28,Các box dưới H=40 có giữ không,Giữ trong bản khóa đầu và ghi rõ ngoại lệ,Người học yêu cầu không xóa; QA cần xem lại theo R01,decided
+DL-002,2026-09-28,L1+M12 ở adasind_012570 có phải nhãn thừa không,Escalate cho QA xác nhận teaching reference,L và M cùng thấy nhưng reference không có; reference chưa phải gold,escalated
+DL-003,2026-09-28,R6 và R9+M13 thiếu trong learner xử lý thế nào,Đánh dấu P1 rework,Có bằng chứng từ reference và một ca được model xác nhận,decided
+DL-004,2026-09-28,Có kết luận model lệch miền từ một box không,Chỉ dùng giả thuyết khi mẫu lặp lại nhiều frame,Model có nhiều missing và M_only ở cả ba frame và nhiều zone,decided
+DL-005,2026-09-28,Vì sao khóa lại r1_craft,Khóa lại từ export CVAT mới lúc 11:50,"Sau self-QC và QA, nhãn đã được chỉnh sửa về tọa độ, class/attribute và ignore region; cần mã khóa mới để mọi vòng sau dùng đúng bản cuối",decided
