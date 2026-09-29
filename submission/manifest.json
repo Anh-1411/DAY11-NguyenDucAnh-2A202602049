@@ -17,13 +17,13 @@
     },
     {
       "file": "parking/annotations.xml",
-      "lines": 78,
-      "sha256": "25694d72895e730d63f3224ff315096636a8e1ff9e0808317fd7283aab091253"
+      "lines": 79,
+      "sha256": "9c1d4a8f824df19f6d2b46dc0564d4aad1752ecfb299a9eb5a572d7b21bd4c15"
     },
     {
       "file": "parking/observations.md",
       "lines": 6,
-      "sha256": "8860f18b7f9e4f8b8f4499b9c1101296de47e9f2f5228d50732e984cc0872d34"
+      "sha256": "551137cb675d150d36dde7e4b2d7e71b26c89f91bc303e87fff45c34bcdde2ce"
     },
     {
       "file": "r1_craft/annotations.xml",
@@ -124,8 +124,8 @@
     },
     {
       "file": "40_decision_log.csv",
-      "lines": 7,
-      "sha256": "e2e535fb936ffb4cde8710ba788754153c87692e6f342ee2429ad4f3c1106b29"
+      "lines": 8,
+      "sha256": "164f105566d5be85c65ae29a1b6442156ba875c629ba0714136d73aea094dc23"
     },
     {
       "file": "45_review_plan.md",
