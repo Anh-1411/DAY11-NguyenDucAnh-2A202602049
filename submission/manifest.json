@@ -16,9 +16,14 @@
       "sha256": "142893062a1fa4aebc3913c480067e1dcfb73aadb279d6f9c63f35f2b7219a42"
     },
     {
+      "file": "parking/annotations.xml",
+      "lines": 78,
+      "sha256": "25694d72895e730d63f3224ff315096636a8e1ff9e0808317fd7283aab091253"
+    },
+    {
       "file": "parking/observations.md",
       "lines": 6,
-      "sha256": "21147d7f81a4dbf58507a6d7a22247bd57dfba60c0b70710d3c11588d470a667"
+      "sha256": "8860f18b7f9e4f8b8f4499b9c1101296de47e9f2f5228d50732e984cc0872d34"
     },
     {
       "file": "r1_craft/annotations.xml",
@@ -119,8 +124,8 @@
     },
     {
       "file": "40_decision_log.csv",
-      "lines": 6,
-      "sha256": "f1ae2671db3866ede47e27baf0995682d2979ea0b4745579955e87e8b58a4bd6"
+      "lines": 7,
+      "sha256": "e2e535fb936ffb4cde8710ba788754153c87692e6f342ee2429ad4f3c1106b29"
     },
     {
       "file": "45_review_plan.md",
@@ -144,7 +149,6 @@
     }
   ],
   "failed_gates": [
-    "Thiếu file parking/annotations.xml",
     "Thiếu file p1_calib/annotations.xml",
     "Thiếu file p1_calib/lock.txt",
     "Thiếu file p1_calib/reference.txt",
